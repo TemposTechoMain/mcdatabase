@@ -1,0 +1,8136 @@
+[
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:acacia_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:acacia_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:acacia_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:acacia_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_acacia_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:acacia_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:acacia_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:acacia_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:acacia_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:acacia_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:acacia_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:acacia_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:acacia_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:redstone_torch",
+      "S": "minecraft:stick",
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "XSX",
+      "X#X",
+      "XSX"
+    ],
+    "item_id": "minecraft:activator_rail"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:amethyst_shard"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:amethyst_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:andesite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:andesite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:andesite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:andesite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:andesite"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:andesite_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "I": "minecraft:iron_block",
+      "i": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "III",
+      " i ",
+      "iii"
+    ],
+    "item_id": "minecraft:anvil"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "/": "minecraft:stick",
+      "_": "minecraft:smooth_stone_slab"
+    },
+    "pattern": [
+      "///",
+      " / ",
+      "/_/"
+    ],
+    "item_id": "minecraft:armor_stand"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:flint",
+      "Y": "minecraft:feather"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "Y"
+    ],
+    "item_id": "minecraft:arrow"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:bamboo_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:bamboo_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:bamboo_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_bamboo_block",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:bamboo_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:bamboo_mosaic"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_mosaic"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:bamboo_mosaic_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_mosaic"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:bamboo_mosaic_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:bamboo_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:bamboo_raft"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:bamboo_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:bamboo_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:bamboo_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:bamboo_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "P": "#minecraft:planks",
+      "S": "#minecraft:wooden_slabs"
+    },
+    "pattern": [
+      "PSP",
+      "P P",
+      "PSP"
+    ],
+    "item_id": "minecraft:barrel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "G": "minecraft:glass",
+      "O": "minecraft:obsidian",
+      "S": "minecraft:nether_star"
+    },
+    "pattern": [
+      "GGG",
+      "GSG",
+      "OOO"
+    ],
+    "item_id": "minecraft:beacon"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "H": "minecraft:honeycomb",
+      "P": "#minecraft:planks"
+    },
+    "pattern": [
+      "PPP",
+      "HHH",
+      "PPP"
+    ],
+    "item_id": "minecraft:beehive"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:birch_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:birch_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:birch_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:birch_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_birch_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:birch_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:birch_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:birch_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:birch_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:birch_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:birch_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:birch_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:birch_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blackstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:blackstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blackstone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:blackstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blackstone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:blackstone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:black_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:black_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:black_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:black_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:black_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:black_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:black_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:black_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:black_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:black_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:black_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:black_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:black_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:black_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_stone",
+      "I": "minecraft:iron_ingot",
+      "X": "minecraft:furnace"
+    },
+    "pattern": [
+      "III",
+      "IXI",
+      "###"
+    ],
+    "item_id": "minecraft:blast_furnace"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blue_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:blue_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blue_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:blue_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blue_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:blue_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:blue_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:blue_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:blue_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:blue_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:blue_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": [
+        "minecraft:copper_block",
+        "minecraft:waxed_copper_block"
+      ],
+      "S": "minecraft:bolt_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:bolt",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bone_meal"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:bone_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "X": "minecraft:book"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "###"
+    ],
+    "item_id": "minecraft:bookshelf"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:string"
+    },
+    "pattern": [
+      " #X",
+      "# X",
+      " #X"
+    ],
+    "item_id": "minecraft:bow"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks"
+    },
+    "pattern": [
+      "# #",
+      " # ",
+      "   "
+    ],
+    "item_id": "minecraft:bowl"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:wheat"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:bread"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:stone_crafting_materials",
+      "B": "minecraft:blaze_rod"
+    },
+    "pattern": [
+      " B ",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:brewing_stand"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brick"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brown_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:brown_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brown_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:brown_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brown_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:brown_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:brown_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:brown_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brown_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:brown_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:brown_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:brown_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:brown_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:brown_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_ingot",
+      "I": "minecraft:stick",
+      "X": "minecraft:feather"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "I"
+    ],
+    "item_id": "minecraft:brush"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "# #",
+      " # ",
+      "   "
+    ],
+    "item_id": "minecraft:bucket"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:leather",
+      "-": "minecraft:string"
+    },
+    "pattern": [
+      "-",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:bundle"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": "minecraft:milk_bucket",
+      "B": "minecraft:sugar",
+      "C": "minecraft:wheat",
+      "E": "#minecraft:eggs"
+    },
+    "pattern": [
+      "AAA",
+      "BEB",
+      "CCC"
+    ],
+    "item_id": "minecraft:cake"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:amethyst_shard",
+      "X": "minecraft:sculk_sensor"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      "   "
+    ],
+    "item_id": "minecraft:calibrated_sculk_sensor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "C": "#minecraft:coals",
+      "L": "#minecraft:logs",
+      "S": "minecraft:stick"
+    },
+    "pattern": [
+      " S ",
+      "SCS",
+      "LLL"
+    ],
+    "item_id": "minecraft:campfire"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "H": "minecraft:honeycomb",
+      "S": "minecraft:string"
+    },
+    "pattern": [
+      "S",
+      "H",
+      "   "
+    ],
+    "item_id": "minecraft:candle"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:fishing_rod",
+      "X": "minecraft:carrot"
+    },
+    "pattern": [
+      "# ",
+      " X",
+      "   "
+    ],
+    "item_id": "minecraft:carrot_on_a_stick"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "@": "minecraft:paper"
+    },
+    "pattern": [
+      "@@",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:cartography_table"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "# #",
+      "# #",
+      "###"
+    ],
+    "item_id": "minecraft:cauldron"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "I": "minecraft:iron_ingot",
+      "N": "minecraft:iron_nugget"
+    },
+    "pattern": [
+      "N",
+      "I",
+      "N"
+    ],
+    "item_id": "minecraft:chain"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:cherry_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:cherry_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:cherry_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:cherry_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_cherry_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:cherry_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:cherry_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:cherry_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cherry_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:cherry_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:cherry_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cherry_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:cherry_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "# #",
+      "###"
+    ],
+    "item_id": "minecraft:chest"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "X": "#minecraft:wooden_slabs"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "###"
+    ],
+    "item_id": "minecraft:chiseled_bookshelf"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobbled_deepslate_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_deepslate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_brick_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_nether_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_polished_blackstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:quartz_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_quartz_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_sandstone_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_red_sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_brick_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_resin_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:sandstone_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone_brick_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_stone_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_tuff"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff_brick_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:chiseled_tuff_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:clay_ball"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:clay"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_ingot",
+      "X": "minecraft:redstone"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      " # "
+    ],
+    "item_id": "minecraft:clock"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:coal"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:coal_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "D": "minecraft:dirt",
+      "G": "minecraft:gravel"
+    },
+    "pattern": [
+      "DG",
+      "GD",
+      "   "
+    ],
+    "item_id": "minecraft:coarse_dirt"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:cobblestone",
+      "S": "minecraft:coast_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:coast_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:coast",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobbled_deepslate"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cobbled_deepslate_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobbled_deepslate"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:cobbled_deepslate_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobbled_deepslate"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:cobbled_deepslate_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cobblestone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:cobblestone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:cobblestone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:redstone_torch",
+      "I": "minecraft:stone",
+      "X": "minecraft:quartz"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      "III"
+    ],
+    "item_id": "minecraft:comparator"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot",
+      "X": "minecraft:redstone"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      " # "
+    ],
+    "item_id": "minecraft:compass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:wooden_slabs"
+    },
+    "pattern": [
+      "# #",
+      "# #",
+      "###"
+    ],
+    "item_id": "minecraft:composter"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nautilus_shell",
+      "X": "minecraft:heart_of_the_sea"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:conduit"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:wheat",
+      "X": "minecraft:cocoa_beans"
+    },
+    "pattern": [
+      "#X#"
+    ],
+    "item_id": "minecraft:cookie"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:copper_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:copper_block",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:copper_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:copper_block"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:copper_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot",
+      "C": "minecraft:crafting_table",
+      "D": "minecraft:dropper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      "###",
+      "#C#",
+      "RDR"
+    ],
+    "item_id": "minecraft:crafter"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:crafting_table"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "L": "minecraft:pale_oak_log",
+      "R": "minecraft:resin_block"
+    },
+    "pattern": [
+      " L ",
+      " R ",
+      " L "
+    ],
+    "item_id": "minecraft:creaking_heart"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:crimson_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:crimson_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:crimson_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_crimson_stem",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:crimson_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_stem"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:crimson_hyphae"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:crimson_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:crimson_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:crimson_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:crimson_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:crimson_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:crimson_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "$": "minecraft:tripwire_hook",
+      "&": "minecraft:iron_ingot",
+      "~": "minecraft:string"
+    },
+    "pattern": [
+      "#&#",
+      "~$~",
+      " # "
+    ],
+    "item_id": "minecraft:crossbow"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_block"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_sandstone"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:cut_red_sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cut_red_sandstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cut_red_sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:sandstone"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:cut_sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cut_sandstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:cut_sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cyan_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:cyan_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cyan_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:cyan_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cyan_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:cyan_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:cyan_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:cyan_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cyan_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:cyan_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:cyan_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:cyan_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:cyan_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:cyan_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:dark_oak_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:dark_oak_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:dark_oak_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:dark_oak_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_dark_oak_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:dark_oak_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:dark_oak_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:dark_oak_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:dark_oak_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:dark_oak_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:dark_oak_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:dark_oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "I": "minecraft:black_dye",
+      "S": "minecraft:prismarine_shard"
+    },
+    "pattern": [
+      "SSS",
+      "SIS",
+      "SSS"
+    ],
+    "item_id": "minecraft:dark_prismarine"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_prismarine"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:dark_prismarine_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dark_prismarine"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:dark_prismarine_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "G": "minecraft:glass",
+      "Q": "minecraft:quartz",
+      "W": "#minecraft:wooden_slabs"
+    },
+    "pattern": [
+      "GGG",
+      "QQQ",
+      "WWW"
+    ],
+    "item_id": "minecraft:daylight_detector"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brick"
+    },
+    "pattern": [
+      " # ",
+      "# #",
+      " # "
+    ],
+    "item_id": "minecraft:decorated_pot"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:polished_deepslate"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:deepslate_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:deepslate_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:deepslate_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:deepslate_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:deepslate_bricks"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:deepslate_tiles"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_tiles"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:deepslate_tile_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_tiles"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:deepslate_tile_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:deepslate_tiles"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:deepslate_tile_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone_pressure_plate",
+      "R": "minecraft:redstone",
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X#X",
+      "XRX"
+    ],
+    "item_id": "minecraft:detector_rail"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      "X#",
+      " #"
+    ],
+    "item_id": "minecraft:diamond_axe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:diamond_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:diamond"
+    },
+    "pattern": [
+      "X X",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:diamond_boots"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:diamond"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "item_id": "minecraft:diamond_chestplate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:diamond"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:diamond_helmet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "item_id": "minecraft:diamond_hoe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:diamond"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "item_id": "minecraft:diamond_leggings"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+      "XXX",
+      " # ",
+      " # "
+    ],
+    "item_id": "minecraft:diamond_pickaxe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:diamond_shovel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "item_id": "minecraft:diamond_sword"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "C": "minecraft:cobblestone",
+      "Q": "minecraft:quartz"
+    },
+    "pattern": [
+      "CQ",
+      "QC",
+      "   "
+    ],
+    "item_id": "minecraft:diorite"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diorite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:diorite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diorite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:diorite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diorite"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:diorite_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone",
+      "R": "minecraft:redstone",
+      "X": "minecraft:bow"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "#R#"
+    ],
+    "item_id": "minecraft:dispenser"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:dried_kelp"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:dried_kelp_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pointed_dripstone"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:dripstone_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      "###",
+      "# #",
+      "#R#"
+    ],
+    "item_id": "minecraft:dropper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:sandstone",
+      "S": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:dune_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:dune",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:emerald"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:emerald_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:obsidian",
+      "B": "minecraft:book",
+      "D": "minecraft:diamond"
+    },
+    "pattern": [
+      " B ",
+      "D#D",
+      "###"
+    ],
+    "item_id": "minecraft:enchanting_table"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:obsidian",
+      "E": "minecraft:ender_eye"
+    },
+    "pattern": [
+      "###",
+      "#E#",
+      "###"
+    ],
+    "item_id": "minecraft:ender_chest"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "E": "minecraft:ender_eye",
+      "G": "minecraft:glass",
+      "T": "minecraft:ghast_tear"
+    },
+    "pattern": [
+      "GGG",
+      "GEG",
+      "GTG"
+    ],
+    "item_id": "minecraft:end_crystal"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:popped_chorus_fruit",
+      "/": "minecraft:blaze_rod"
+    },
+    "pattern": [
+      "/",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:end_rod"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:end_stone"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:end_stone_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:end_stone_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:end_stone_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:end_stone_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:end_stone_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:end_stone_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:end_stone_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:exposed_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:exposed_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:exposed_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:exposed_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:exposed_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:exposed_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:exposed_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:exposed_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:exposed_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:exposed_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:exposed_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:exposed_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:end_stone",
+      "S": "minecraft:eye_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:eye_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:eye",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:string"
+    },
+    "pattern": [
+      "  #",
+      " #X",
+      "# X"
+    ],
+    "item_id": "minecraft:fishing_rod"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "@": "minecraft:flint"
+    },
+    "pattern": [
+      "@@",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:fletching_table"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:brick"
+    },
+    "pattern": [
+      "# #",
+      " # ",
+      "   "
+    ],
+    "item_id": "minecraft:flower_pot"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:breeze_rod",
+      "S": "minecraft:flow_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:flow_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:flow",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:stone_crafting_materials"
+    },
+    "pattern": [
+      "###",
+      "# #",
+      "###"
+    ],
+    "item_id": "minecraft:furnace"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass"
+    },
+    "pattern": [
+      "# #",
+      " # ",
+      "   "
+    ],
+    "item_id": "minecraft:glass_bottle"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_nugget",
+      "X": "minecraft:melon_slice"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:glistering_melon_slice"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glowstone_dust"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:glowstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_ingot",
+      "X": "minecraft:apple"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:golden_apple"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      "X#",
+      " #"
+    ],
+    "item_id": "minecraft:golden_axe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:golden_boots"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_nugget",
+      "X": "minecraft:carrot"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:golden_carrot"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "item_id": "minecraft:golden_chestplate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:golden_helmet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "item_id": "minecraft:golden_hoe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "item_id": "minecraft:golden_leggings"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+      "XXX",
+      " # ",
+      " # "
+    ],
+    "item_id": "minecraft:golden_pickaxe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:golden_shovel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "item_id": "minecraft:golden_sword"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:gold_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_nugget"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:gold_ingot"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:granite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:granite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:granite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:granite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:granite"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:granite_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gray_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:gray_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gray_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:gray_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gray_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:gray_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:gray_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gray_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:gray_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:gray_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:gray_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:green_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:green_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:green_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:green_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:green_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:green_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:green_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:green_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:green_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:green_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:green_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:green_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:green_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:green_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "-": "minecraft:stone_slab",
+      "I": "minecraft:stick"
+    },
+    "pattern": [
+      "I-I",
+      "# #",
+      "   "
+    ],
+    "item_id": "minecraft:grindstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:heavy_weighted_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:honeycomb"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:honeycomb_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:honey_bottle"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:honey_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "C": "minecraft:chest",
+      "I": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "I I",
+      "ICI",
+      " I "
+    ],
+    "item_id": "minecraft:hopper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:terracotta",
+      "S": "minecraft:host_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:host_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:host",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:iron_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      "X#",
+      " #"
+    ],
+    "item_id": "minecraft:iron_axe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:iron_bars"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:iron_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:iron_boots"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "item_id": "minecraft:iron_chestplate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:iron_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:iron_helmet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:iron_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "item_id": "minecraft:iron_hoe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_nugget"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:iron_ingot"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "item_id": "minecraft:iron_leggings"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:iron_tool_materials"
+    },
+    "pattern": [
+      "XXX",
+      " # ",
+      " # "
+    ],
+    "item_id": "minecraft:iron_pickaxe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:iron_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:iron_shovel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:iron_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "item_id": "minecraft:iron_sword"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:iron_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:item_frame"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": "minecraft:carved_pumpkin",
+      "B": "minecraft:torch"
+    },
+    "pattern": [
+      "A",
+      "B",
+      "   "
+    ],
+    "item_id": "minecraft:jack_o_lantern"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "X": "minecraft:diamond"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:jukebox"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:jungle_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:jungle_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:jungle_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:jungle_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_jungle_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:jungle_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:jungle_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:jungle_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:jungle_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:jungle_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:jungle_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:jungle_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:jungle_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "# #"
+    ],
+    "item_id": "minecraft:ladder"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:torch",
+      "X": "minecraft:iron_nugget"
+    },
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "item_id": "minecraft:lantern"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:lapis_lazuli"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:lapis_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "O": "minecraft:slime_ball",
+      "~": "minecraft:string"
+    },
+    "pattern": [
+      "~~ ",
+      "~O ",
+      "  ~"
+    ],
+    "item_id": "minecraft:lead"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:rabbit_hide"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:leather"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "X X",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:leather_boots"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "item_id": "minecraft:leather_chestplate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:leather_helmet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "X X",
+      "XXX",
+      "X X"
+    ],
+    "item_id": "minecraft:leather_horse_armor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:leather"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "item_id": "minecraft:leather_leggings"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:bookshelf",
+      "S": "#minecraft:wooden_slabs"
+    },
+    "pattern": [
+      "SSS",
+      " B ",
+      " S "
+    ],
+    "item_id": "minecraft:lectern"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:lever"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:lightning_rod"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_blue_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:light_blue_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_blue_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:light_blue_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_blue_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:light_blue_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:light_blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:light_blue_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_blue_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:light_blue_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:light_blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:light_blue_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:light_blue_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:light_blue_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_gray_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:light_gray_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_gray_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:light_gray_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_gray_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:light_gray_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:light_gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:light_gray_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:light_gray_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:light_gray_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:light_gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:light_gray_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:light_gray_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:light_gray_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:light_weighted_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:lime_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:lime_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:lime_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:lime_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:lime_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:lime_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:lime_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:lime_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:lime_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:lime_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:lime_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:lime_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:lime_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:lime_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot",
+      "S": "minecraft:chiseled_stone_bricks"
+    },
+    "pattern": [
+      "SSS",
+      "S#S",
+      "SSS"
+    ],
+    "item_id": "minecraft:lodestone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "@": "minecraft:string"
+    },
+    "pattern": [
+      "@@",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:loom"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:heavy_core",
+      "I": "minecraft:breeze_rod"
+    },
+    "pattern": [
+      " # ",
+      " I ",
+      "   "
+    ],
+    "item_id": "minecraft:mace"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:magenta_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:magenta_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:magenta_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:magenta_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:magenta_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:magenta_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:magenta_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:magenta_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:magenta_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:magenta_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:magenta_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:magenta_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:magenta_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:magenta_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:magma_cream"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:magma_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:mangrove_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:mangrove_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:mangrove_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:mangrove_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_mangrove_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:mangrove_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:mangrove_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:mangrove_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:mangrove_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:mangrove_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:mangrove_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mangrove_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:mangrove_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:paper",
+      "X": "minecraft:compass"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:map"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:minecart"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_cobblestone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:mossy_cobblestone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_cobblestone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:mossy_cobblestone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_cobblestone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:mossy_cobblestone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_stone_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:mossy_stone_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_stone_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:mossy_stone_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mossy_stone_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:mossy_stone_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:moss_block"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:moss_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:packed_mud"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:mud_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mud_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:mud_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mud_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:mud_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:mud_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:mud_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:netherite_ingot"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:netherite_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:netherrack",
+      "S": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:netherite_upgrade_smithing_template"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_brick"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:nether_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_brick",
+      "W": "minecraft:nether_bricks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:nether_brick_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:nether_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:nether_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:nether_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:nether_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "X": "minecraft:redstone"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:note_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:oak_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:oak_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:oak_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:oak_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_oak_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:oak_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:oak_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:oak_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:oak_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:oak_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:oak_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone",
+      "Q": "minecraft:quartz",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      "###",
+      "RRQ",
+      "###"
+    ],
+    "item_id": "minecraft:observer"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:orange_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:orange_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:orange_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:orange_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:orange_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:orange_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:orange_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:orange_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:orange_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:orange_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:orange_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:orange_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:orange_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:orange_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oxidized_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:oxidized_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:oxidized_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:oxidized_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:oxidized_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:oxidized_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oxidized_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:oxidized_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oxidized_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:oxidized_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:oxidized_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:oxidized_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wool"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:painting"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_moss_block"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:pale_moss_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:pale_oak_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:pale_oak_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:pale_oak_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:pale_oak_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_pale_oak_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:pale_oak_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:pale_oak_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:pale_oak_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:pale_oak_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:pale_oak_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:pale_oak_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pale_oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:pale_oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:sugar_cane"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:paper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pink_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:pink_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pink_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:pink_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pink_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:pink_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:pink_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:pink_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:pink_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:pink_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:pink_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:pink_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:pink_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:pink_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:cobblestone",
+      "R": "minecraft:redstone",
+      "T": "#minecraft:planks",
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "TTT",
+      "#X#",
+      "#R#"
+    ],
+    "item_id": "minecraft:piston"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:andesite"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_andesite"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_andesite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_andesite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_andesite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_andesite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:basalt"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_basalt"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:blackstone"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_blackstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:polished_blackstone"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_blackstone_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_blackstone_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_blackstone_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:polished_blackstone_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:polished_blackstone_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_blackstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_blackstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_blackstone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:polished_blackstone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:cobbled_deepslate"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_deepslate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_deepslate"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_deepslate_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_deepslate"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_deepslate_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_deepslate"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:polished_deepslate_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:diorite"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_diorite"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_diorite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_diorite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_diorite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_diorite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:granite"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_granite"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_granite"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_granite_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_granite"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_granite_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:tuff"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:polished_tuff"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_tuff"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:polished_tuff_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_tuff"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:polished_tuff_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:polished_tuff"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:polished_tuff_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "R": "minecraft:redstone",
+      "X": "minecraft:gold_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X#X",
+      "XRX"
+    ],
+    "item_id": "minecraft:powered_rail"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine_shard"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:prismarine"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:prismarine_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:prismarine_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:prismarine_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:prismarine_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:prismarine"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:prismarine_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:purple_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:purple_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:purple_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:purple_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:purple_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:purple_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:purple_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:purple_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:purple_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:purple_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:purple_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:purple_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:purple_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:purple_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "F": "minecraft:popped_chorus_fruit"
+    },
+    "pattern": [
+      "FF",
+      "FF",
+      "   "
+    ],
+    "item_id": "minecraft:purpur_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:purpur_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:purpur_pillar"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:purpur_block",
+        "minecraft:purpur_pillar"
+      ]
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:purpur_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:purpur_block",
+        "minecraft:purpur_pillar"
+      ]
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:purpur_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:quartz"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:quartz_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:quartz_block"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:quartz_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:quartz_block"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:quartz_pillar"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:chiseled_quartz_block",
+        "minecraft:quartz_block",
+        "minecraft:quartz_pillar"
+      ]
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:quartz_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:chiseled_quartz_block",
+        "minecraft:quartz_block",
+        "minecraft:quartz_pillar"
+      ]
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:quartz_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "X X",
+      "X#X",
+      "X X"
+    ],
+    "item_id": "minecraft:rail"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:terracotta",
+      "S": "minecraft:raiser_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:raiser",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:raw_copper"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:raw_copper_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:raw_gold"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:raw_gold_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:raw_iron"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:raw_iron_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "C": "minecraft:compass",
+      "S": "minecraft:echo_shard"
+    },
+    "pattern": [
+      "SSS",
+      "SCS",
+      "SSS"
+    ],
+    "item_id": "minecraft:recovery_compass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:redstone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:redstone_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "G": "minecraft:glowstone",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " R ",
+      "RGR",
+      " R "
+    ],
+    "item_id": "minecraft:redstone_lamp"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "minecraft:redstone"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:redstone_torch"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:red_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:red_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:red_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "N": "minecraft:nether_brick",
+      "W": "minecraft:nether_wart"
+    },
+    "pattern": [
+      "NW",
+      "WN",
+      "   "
+    ],
+    "item_id": "minecraft:red_nether_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_nether_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:red_nether_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_nether_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:red_nether_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_nether_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:red_nether_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_sand"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:red_sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:red_sandstone",
+        "minecraft:chiseled_red_sandstone"
+      ]
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:red_sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:red_sandstone",
+        "minecraft:chiseled_red_sandstone",
+        "minecraft:cut_red_sandstone"
+      ]
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:red_sandstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_sandstone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:red_sandstone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:red_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:red_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:red_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:red_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:red_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:red_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:red_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:red_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:redstone_torch",
+      "I": "minecraft:stone",
+      "X": "minecraft:redstone"
+    },
+    "pattern": [
+      "#X#",
+      "III",
+      "   "
+    ],
+    "item_id": "minecraft:repeater"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_clump"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:resin_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_brick"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:resin_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:resin_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:resin_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:resin_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:resin_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "G": "minecraft:glowstone",
+      "O": "minecraft:crying_obsidian"
+    },
+    "pattern": [
+      "OOO",
+      "GGG",
+      "OOO"
+    ],
+    "item_id": "minecraft:respawn_anchor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:netherrack",
+      "S": "minecraft:rib_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:rib_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:rib",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:sand"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:sandstone"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:sandstone",
+        "minecraft:chiseled_sandstone"
+      ]
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:sandstone",
+        "minecraft:chiseled_sandstone",
+        "minecraft:cut_sandstone"
+      ]
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:sandstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:sandstone"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:sandstone_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "I": "minecraft:bamboo",
+      "~": "minecraft:string"
+    },
+    "pattern": [
+      "I~I",
+      "I I",
+      "I I"
+    ],
+    "item_id": "minecraft:scaffolding"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "C": "minecraft:prismarine_crystals",
+      "S": "minecraft:prismarine_shard"
+    },
+    "pattern": [
+      "SCS",
+      "CCC",
+      "SCS"
+    ],
+    "item_id": "minecraft:sea_lantern"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:cobblestone",
+      "S": "minecraft:sentry_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:sentry",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:terracotta",
+      "S": "minecraft:shaper_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:shaper",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      " #",
+      "# ",
+      "   "
+    ],
+    "item_id": "minecraft:shears"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "W": "#minecraft:wooden_tool_materials",
+      "o": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "WoW",
+      "WWW",
+      " W "
+    ],
+    "item_id": "minecraft:shield"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:chest",
+      "-": "minecraft:shulker_shell"
+    },
+    "pattern": [
+      "-",
+      "#",
+      "-"
+    ],
+    "item_id": "minecraft:shulker_box"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:cobbled_deepslate",
+      "S": "minecraft:silence_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:silence_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:silence",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:slime_ball"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:slime_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "@": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      "@@",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:smithing_table"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:logs",
+      "X": "minecraft:furnace"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      " # "
+    ],
+    "item_id": "minecraft:smoker"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_quartz"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:smooth_quartz_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_quartz"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:smooth_quartz_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_red_sandstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:smooth_red_sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_red_sandstone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:smooth_red_sandstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_sandstone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:smooth_sandstone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_sandstone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:smooth_sandstone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:smooth_stone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:smooth_stone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:blackstone",
+      "S": "minecraft:snout_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:snout_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:snout",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:snow_block"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:snow"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:snowball"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:snow_block"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:soul_fire_base_blocks",
+      "L": "#minecraft:logs",
+      "S": "minecraft:stick"
+    },
+    "pattern": [
+      " S ",
+      "S#S",
+      "LLL"
+    ],
+    "item_id": "minecraft:soul_campfire"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:soul_torch",
+      "X": "minecraft:iron_nugget"
+    },
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "item_id": "minecraft:soul_lantern"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "S": "#minecraft:soul_fire_base_blocks",
+      "X": [
+        "minecraft:coal",
+        "minecraft:charcoal"
+      ]
+    },
+    "pattern": [
+      "X",
+      "#",
+      "S"
+    ],
+    "item_id": "minecraft:soul_torch"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glowstone_dust",
+      "X": "minecraft:arrow"
+    },
+    "pattern": [
+      " # ",
+      "#X#",
+      " # "
+    ],
+    "item_id": "minecraft:spectral_arrow"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:purpur_block",
+      "S": "minecraft:spire_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:spire_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:spire",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "# #",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:spruce_boat"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:spruce_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:spruce_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:spruce_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_spruce_log",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:spruce_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:spruce_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:spruce_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:spruce_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:spruce_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:spruce_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:spruce_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:spruce_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:amethyst_shard",
+      "X": "minecraft:copper_ingot"
+    },
+    "pattern": [
+      " # ",
+      " X ",
+      " X "
+    ],
+    "item_id": "minecraft:spyglass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:stick"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "P": "minecraft:piston",
+      "S": "minecraft:slime_ball"
+    },
+    "pattern": [
+      "S",
+      "P",
+      "   "
+    ],
+    "item_id": "minecraft:sticky_piston"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:bamboo"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:stick"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone",
+      "I": "minecraft:iron_ingot"
+    },
+    "pattern": [
+      " I ",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:stonecutter"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      "X#",
+      " #"
+    ],
+    "item_id": "minecraft:stone_axe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stone_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:stone_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:stone_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:stone_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "item_id": "minecraft:stone_hoe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+      "XXX",
+      " # ",
+      " # "
+    ],
+    "item_id": "minecraft:stone_pickaxe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:stone_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:stone_shovel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:stone_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stone"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:stone_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "item_id": "minecraft:stone_sword"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_acacia_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_acacia_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_birch_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_birch_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_cherry_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_cherry_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_crimson_stem"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_crimson_hyphae"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_dark_oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_dark_oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_jungle_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_jungle_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_mangrove_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_mangrove_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_pale_oak_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_pale_oak_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_spruce_log"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_spruce_wood"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_warped_stem"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:stripped_warped_hyphae"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "H": "minecraft:hay_block",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " R ",
+      "RHR",
+      " R "
+    ],
+    "item_id": "minecraft:target"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:prismarine",
+      "S": "minecraft:tide_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:tide_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:tide",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "G": "minecraft:glass",
+      "S": "minecraft:amethyst_shard"
+    },
+    "pattern": [
+      " S ",
+      "SGS",
+      " S "
+    ],
+    "item_id": "minecraft:tinted_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:sand",
+        "minecraft:red_sand"
+      ],
+      "X": "minecraft:gunpowder"
+    },
+    "pattern": [
+      "X#X",
+      "#X#",
+      "X#X"
+    ],
+    "item_id": "minecraft:tnt"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": [
+        "minecraft:coal",
+        "minecraft:charcoal"
+      ]
+    },
+    "pattern": [
+      "X",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:torch"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "#minecraft:planks",
+      "I": "minecraft:iron_ingot",
+      "S": "minecraft:stick"
+    },
+    "pattern": [
+      "I",
+      "S",
+      "#"
+    ],
+    "item_id": "minecraft:tripwire_hook"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "S": "minecraft:polished_tuff"
+    },
+    "pattern": [
+      "SS",
+      "SS",
+      "   "
+    ],
+    "item_id": "minecraft:tuff_bricks"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff_bricks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:tuff_brick_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff_bricks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:tuff_brick_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff_bricks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:tuff_brick_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:tuff_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:tuff_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:tuff"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:tuff_wall"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:turtle_scute"
+    },
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "item_id": "minecraft:turtle_helmet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:cobblestone",
+      "S": "minecraft:vex_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:vex_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:vex",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:cobbled_deepslate",
+      "S": "minecraft:ward_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:ward_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:ward",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "item_id": "minecraft:warped_door"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "W#W",
+      "W#W",
+      "   "
+    ],
+    "item_id": "minecraft:warped_fence"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "W": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "#W#",
+      "#W#",
+      "   "
+    ],
+    "item_id": "minecraft:warped_fence_gate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:fishing_rod",
+      "X": "minecraft:warped_fungus"
+    },
+    "pattern": [
+      "# ",
+      " X",
+      "   "
+    ],
+    "item_id": "minecraft:warped_fungus_on_a_stick"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stripped_warped_stem",
+      "X": "minecraft:chain"
+    },
+    "pattern": [
+      "X X",
+      "###",
+      "###"
+    ],
+    "item_id": "minecraft:warped_hanging_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_stem"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:warped_hyphae"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:warped_pressure_plate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks",
+      "X": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " X "
+    ],
+    "item_id": "minecraft:warped_sign"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:warped_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:warped_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:warped_planks"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:warped_trapdoor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:waxed_copper_block",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:waxed_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:waxed_copper_block"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:waxed_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_copper_block"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:waxed_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:waxed_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_exposed_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_exposed_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:waxed_exposed_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:waxed_exposed_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:waxed_exposed_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:waxed_exposed_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_exposed_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_exposed_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_exposed_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:waxed_exposed_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_exposed_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:waxed_exposed_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_oxidized_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_oxidized_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:waxed_oxidized_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:waxed_oxidized_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:waxed_oxidized_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:waxed_oxidized_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_oxidized_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_oxidized_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_oxidized_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:waxed_oxidized_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_oxidized_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:waxed_oxidized_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_weathered_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_weathered_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:waxed_weathered_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:waxed_weathered_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:waxed_weathered_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:waxed_weathered_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_weathered_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:waxed_weathered_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_weathered_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:waxed_weathered_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:waxed_weathered_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:waxed_weathered_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:terracotta",
+      "S": "minecraft:wayfinder_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:wayfinder",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:weathered_cut_copper_slab"
+    },
+    "pattern": [
+      "#",
+      "#",
+      "   "
+    ],
+    "item_id": "minecraft:weathered_chiseled_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "B": "minecraft:blaze_rod",
+      "C": "minecraft:weathered_copper",
+      "R": "minecraft:redstone"
+    },
+    "pattern": [
+      " C ",
+      "CBC",
+      " R "
+    ],
+    "item_id": "minecraft:weathered_copper_bulb"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "M": "minecraft:weathered_copper"
+    },
+    "pattern": [
+      " M ",
+      "M M",
+      " M "
+    ],
+    "item_id": "minecraft:weathered_copper_grate"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:weathered_copper"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:weathered_cut_copper"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:weathered_cut_copper"
+    },
+    "pattern": [
+      "###"
+    ],
+    "item_id": "minecraft:weathered_cut_copper_slab"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:weathered_cut_copper"
+    },
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "item_id": "minecraft:weathered_cut_copper_stairs"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:white_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:white_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:white_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:white_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:white_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:white_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:white_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:white_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:white_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:white_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:white_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:white_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:white_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:white_terracotta"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:string"
+    },
+    "pattern": [
+      "##",
+      "##",
+      "   "
+    ],
+    "item_id": "minecraft:white_wool"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:diamond",
+      "C": "minecraft:mossy_cobblestone",
+      "S": "minecraft:wild_armor_trim_smithing_template"
+    },
+    "pattern": [
+      "#S#",
+      "#C#",
+      "###"
+    ],
+    "item_id": "minecraft:wild_armor_trim_smithing_template"
+  },
+  {
+    "type": "minecraft:smithing_trim",
+    "key": {},
+    "pattern": "minecraft:wild",
+    "item_id": ""
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "X": "minecraft:armadillo_scute"
+    },
+    "pattern": [
+      "X  ",
+      "XXX",
+      "X X"
+    ],
+    "item_id": "minecraft:wolf_armor"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wooden_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      "X#",
+      " #"
+    ],
+    "item_id": "minecraft:wooden_axe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wooden_tool_materials"
+    },
+    "pattern": [
+      "XX",
+      " #",
+      " #"
+    ],
+    "item_id": "minecraft:wooden_hoe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wooden_tool_materials"
+    },
+    "pattern": [
+      "XXX",
+      " # ",
+      " # "
+    ],
+    "item_id": "minecraft:wooden_pickaxe"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wooden_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "#",
+      "#"
+    ],
+    "item_id": "minecraft:wooden_shovel"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:stick",
+      "X": "#minecraft:wooden_tool_materials"
+    },
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "item_id": "minecraft:wooden_sword"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:yellow_wool",
+      "|": "minecraft:stick"
+    },
+    "pattern": [
+      "###",
+      "###",
+      " | "
+    ],
+    "item_id": "minecraft:yellow_banner"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:yellow_wool",
+      "X": "#minecraft:planks"
+    },
+    "pattern": [
+      "###",
+      "XXX",
+      "   "
+    ],
+    "item_id": "minecraft:yellow_bed"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:yellow_wool"
+    },
+    "pattern": [
+      "##"
+    ],
+    "item_id": "minecraft:yellow_carpet"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass",
+      "X": "minecraft:yellow_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:yellow_stained_glass"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:yellow_stained_glass"
+    },
+    "pattern": [
+      "###",
+      "###",
+      "   "
+    ],
+    "item_id": "minecraft:yellow_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:glass_pane",
+      "$": "minecraft:yellow_dye"
+    },
+    "pattern": [
+      "###",
+      "#$#",
+      "###"
+    ],
+    "item_id": "minecraft:yellow_stained_glass_pane"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": "minecraft:terracotta",
+      "X": "minecraft:yellow_dye"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "item_id": "minecraft:yellow_terracotta"
+  }
+]
