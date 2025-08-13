@@ -68,7 +68,9 @@
       "#": "minecraft:acacia_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:acacia_pressure_plate"
   },
@@ -91,7 +93,9 @@
       "#": "minecraft:acacia_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:acacia_slab"
   },
@@ -163,7 +167,9 @@
       "#": "minecraft:andesite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:andesite_slab"
   },
@@ -300,7 +306,9 @@
       "#": "minecraft:bamboo_mosaic"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:bamboo_mosaic_slab"
   },
@@ -322,7 +330,9 @@
       "#": "minecraft:bamboo_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:bamboo_pressure_plate"
   },
@@ -357,7 +367,9 @@
       "#": "minecraft:bamboo_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:bamboo_slab"
   },
@@ -494,7 +506,9 @@
       "#": "minecraft:birch_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:birch_pressure_plate"
   },
@@ -517,7 +531,9 @@
       "#": "minecraft:birch_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:birch_slab"
   },
@@ -563,7 +579,9 @@
       "#": "minecraft:blackstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:blackstone_slab"
   },
@@ -623,7 +641,9 @@
       "#": "minecraft:black_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:black_carpet"
   },
@@ -724,7 +744,9 @@
       "#": "minecraft:blue_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:blue_carpet"
   },
@@ -858,7 +880,9 @@
       "#": "minecraft:wheat"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:bread"
   },
@@ -893,7 +917,9 @@
       "#": "minecraft:bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:brick_slab"
   },
@@ -953,7 +979,9 @@
       "#": "minecraft:brown_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:brown_carpet"
   },
@@ -1222,7 +1250,9 @@
       "#": "minecraft:cherry_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:cherry_pressure_plate"
   },
@@ -1245,7 +1275,9 @@
       "#": "minecraft:cherry_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cherry_slab"
   },
@@ -1518,7 +1550,9 @@
       "#": "minecraft:cobbled_deepslate"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cobbled_deepslate_slab"
   },
@@ -1552,7 +1586,9 @@
       "#": "minecraft:cobblestone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cobblestone_slab"
   },
@@ -1639,7 +1675,9 @@
       "X": "minecraft:cocoa_beans"
     },
     "pattern": [
-      "#X#"
+      "   ",
+      "#X#",
+      "  "
     ],
     "item_id": "minecraft:cookie"
   },
@@ -1814,7 +1852,9 @@
       "#": "minecraft:crimson_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:crimson_pressure_plate"
   },
@@ -1837,7 +1877,9 @@
       "#": "minecraft:crimson_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:crimson_slab"
   },
@@ -1898,7 +1940,9 @@
       "#": "minecraft:cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cut_copper_slab"
   },
@@ -1932,7 +1976,9 @@
       "#": "minecraft:cut_red_sandstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cut_red_sandstone_slab"
   },
@@ -1954,7 +2000,9 @@
       "#": "minecraft:cut_sandstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:cut_sandstone_slab"
   },
@@ -1990,7 +2038,9 @@
       "#": "minecraft:cyan_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:cyan_carpet"
   },
@@ -2114,7 +2164,9 @@
       "#": "minecraft:dark_oak_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:dark_oak_pressure_plate"
   },
@@ -2137,7 +2189,9 @@
       "#": "minecraft:dark_oak_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:dark_oak_slab"
   },
@@ -2196,7 +2250,9 @@
       "#": "minecraft:dark_prismarine"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:dark_prismarine_slab"
   },
@@ -2256,7 +2312,9 @@
       "#": "minecraft:deepslate_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:deepslate_brick_slab"
   },
@@ -2302,7 +2360,9 @@
       "#": "minecraft:deepslate_tiles"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:deepslate_tile_slab"
   },
@@ -2488,7 +2548,9 @@
       "#": "minecraft:diorite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:diorite_slab"
   },
@@ -2671,7 +2733,9 @@
       "#": "minecraft:end_stone_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:end_stone_brick_slab"
   },
@@ -2755,7 +2819,9 @@
       "#": "minecraft:exposed_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:exposed_cut_copper_slab"
   },
@@ -3079,7 +3145,9 @@
       "#": "minecraft:granite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:granite_slab"
   },
@@ -3139,7 +3207,9 @@
       "#": "minecraft:gray_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:gray_carpet"
   },
@@ -3226,7 +3296,9 @@
       "#": "minecraft:green_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:green_carpet"
   },
@@ -3301,7 +3373,9 @@
       "#": "minecraft:iron_ingot"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:heavy_weighted_pressure_plate"
   },
@@ -3643,7 +3717,9 @@
       "#": "minecraft:jungle_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:jungle_pressure_plate"
   },
@@ -3666,7 +3742,9 @@
       "#": "minecraft:jungle_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:jungle_slab"
   },
@@ -3898,7 +3976,9 @@
       "#": "minecraft:light_blue_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:light_blue_carpet"
   },
@@ -3985,7 +4065,9 @@
       "#": "minecraft:light_gray_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:light_gray_carpet"
   },
@@ -4046,7 +4128,9 @@
       "#": "minecraft:gold_ingot"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:light_weighted_pressure_plate"
   },
@@ -4082,7 +4166,9 @@
       "#": "minecraft:lime_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:lime_carpet"
   },
@@ -4208,7 +4294,9 @@
       "#": "minecraft:magenta_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:magenta_carpet"
   },
@@ -4344,7 +4432,9 @@
       "#": "minecraft:mangrove_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:mangrove_pressure_plate"
   },
@@ -4367,7 +4457,9 @@
       "#": "minecraft:mangrove_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:mangrove_slab"
   },
@@ -4438,7 +4530,9 @@
       "#": "minecraft:mossy_cobblestone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:mossy_cobblestone_slab"
   },
@@ -4472,7 +4566,9 @@
       "#": "minecraft:mossy_stone_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:mossy_stone_brick_slab"
   },
@@ -4506,7 +4602,9 @@
       "#": "minecraft:moss_block"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:moss_carpet"
   },
@@ -4528,7 +4626,9 @@
       "#": "minecraft:mud_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:mud_brick_slab"
   },
@@ -4613,7 +4713,9 @@
       "#": "minecraft:nether_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:nether_brick_slab"
   },
@@ -4723,7 +4825,9 @@
       "#": "minecraft:oak_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:oak_pressure_plate"
   },
@@ -4746,7 +4850,9 @@
       "#": "minecraft:oak_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:oak_slab"
   },
@@ -4832,7 +4938,9 @@
       "#": "minecraft:orange_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:orange_carpet"
   },
@@ -4943,7 +5051,9 @@
       "#": "minecraft:oxidized_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:oxidized_cut_copper_slab"
   },
@@ -4978,7 +5088,9 @@
       "#": "minecraft:pale_moss_block"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:pale_moss_carpet"
   },
@@ -5051,7 +5163,9 @@
       "#": "minecraft:pale_oak_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:pale_oak_pressure_plate"
   },
@@ -5074,7 +5188,9 @@
       "#": "minecraft:pale_oak_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:pale_oak_slab"
   },
@@ -5120,7 +5236,9 @@
       "#": "minecraft:sugar_cane"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:paper"
   },
@@ -5156,7 +5274,9 @@
       "#": "minecraft:pink_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:pink_carpet"
   },
@@ -5244,7 +5364,9 @@
       "#": "minecraft:polished_andesite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_andesite_slab"
   },
@@ -5302,7 +5424,9 @@
       "#": "minecraft:polished_blackstone_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_blackstone_brick_slab"
   },
@@ -5336,7 +5460,9 @@
       "#": "minecraft:polished_blackstone"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:polished_blackstone_pressure_plate"
   },
@@ -5346,7 +5472,9 @@
       "#": "minecraft:polished_blackstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_blackstone_slab"
   },
@@ -5392,7 +5520,9 @@
       "#": "minecraft:polished_deepslate"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_deepslate_slab"
   },
@@ -5438,7 +5568,9 @@
       "#": "minecraft:polished_diorite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_diorite_slab"
   },
@@ -5472,7 +5604,9 @@
       "#": "minecraft:polished_granite"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_granite_slab"
   },
@@ -5506,7 +5640,9 @@
       "#": "minecraft:polished_tuff"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:polished_tuff_slab"
   },
@@ -5566,7 +5702,9 @@
       "#": "minecraft:prismarine_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:prismarine_brick_slab"
   },
@@ -5588,7 +5726,9 @@
       "#": "minecraft:prismarine"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:prismarine_slab"
   },
@@ -5648,7 +5788,9 @@
       "#": "minecraft:purple_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:purple_carpet"
   },
@@ -5736,7 +5878,9 @@
       ]
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:purpur_slab"
   },
@@ -5801,7 +5945,9 @@
       ]
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:quartz_slab"
   },
@@ -5973,7 +6119,9 @@
       "#": "minecraft:red_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:red_carpet"
   },
@@ -5996,7 +6144,9 @@
       "#": "minecraft:red_nether_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:red_nether_brick_slab"
   },
@@ -6045,7 +6195,9 @@
       ]
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:red_sandstone_slab"
   },
@@ -6172,7 +6324,9 @@
       "#": "minecraft:resin_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:resin_brick_slab"
   },
@@ -6254,7 +6408,9 @@
       ]
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:sandstone_slab"
   },
@@ -6454,7 +6610,9 @@
       "#": "minecraft:smooth_quartz"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:smooth_quartz_slab"
   },
@@ -6476,7 +6634,9 @@
       "#": "minecraft:smooth_red_sandstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:smooth_red_sandstone_slab"
   },
@@ -6498,7 +6658,9 @@
       "#": "minecraft:smooth_sandstone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:smooth_sandstone_slab"
   },
@@ -6520,7 +6682,9 @@
       "#": "minecraft:smooth_stone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:smooth_stone_slab"
   },
@@ -6550,7 +6714,9 @@
       "#": "minecraft:snow_block"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:snow"
   },
@@ -6712,7 +6878,9 @@
       "#": "minecraft:spruce_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:spruce_pressure_plate"
   },
@@ -6735,7 +6903,9 @@
       "#": "minecraft:spruce_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:spruce_slab"
   },
@@ -6869,7 +7039,9 @@
       "#": "minecraft:stone_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:stone_brick_slab"
   },
@@ -6929,7 +7101,9 @@
       "#": "minecraft:stone"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:stone_pressure_plate"
   },
@@ -6952,7 +7126,9 @@
       "#": "minecraft:stone"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:stone_slab"
   },
@@ -7223,7 +7399,9 @@
       "#": "minecraft:tuff_bricks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:tuff_brick_slab"
   },
@@ -7257,7 +7435,9 @@
       "#": "minecraft:tuff"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:tuff_slab"
   },
@@ -7419,7 +7599,9 @@
       "#": "minecraft:warped_planks"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:warped_pressure_plate"
   },
@@ -7442,7 +7624,9 @@
       "#": "minecraft:warped_planks"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:warped_slab"
   },
@@ -7526,7 +7710,9 @@
       "#": "minecraft:waxed_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:waxed_cut_copper_slab"
   },
@@ -7598,7 +7784,9 @@
       "#": "minecraft:waxed_exposed_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:waxed_exposed_cut_copper_slab"
   },
@@ -7670,7 +7858,9 @@
       "#": "minecraft:waxed_oxidized_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:waxed_oxidized_cut_copper_slab"
   },
@@ -7742,7 +7932,9 @@
       "#": "minecraft:waxed_weathered_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:waxed_weathered_cut_copper_slab"
   },
@@ -7834,7 +8026,9 @@
       "#": "minecraft:weathered_cut_copper"
     },
     "pattern": [
-      "###"
+      "   ",
+      "###",
+      "  "
     ],
     "item_id": "minecraft:weathered_cut_copper_slab"
   },
@@ -7882,7 +8076,9 @@
       "#": "minecraft:white_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:white_carpet"
   },
@@ -8078,7 +8274,9 @@
       "#": "minecraft:yellow_wool"
     },
     "pattern": [
-      "##"
+      "   ",
+      "##",
+      "  "
     ],
     "item_id": "minecraft:yellow_carpet"
   },
